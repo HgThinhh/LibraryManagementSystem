@@ -70,7 +70,6 @@ dashboard
 
 
 <img width="955" height="484" alt="image" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
-<img width="955" height="478" alt="image" src="https://github.com/user-attachments/assets/ac952da9-1599-4865-a9c3-7af2b62003bf" />
 
 
 
