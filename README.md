@@ -61,6 +61,14 @@ dashboard
 <img width="959" height="486" alt="image" src="https://github.com/user-attachments/assets/02af6d20-1fd6-4532-af2e-bc118860faa1" />
 <img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/acb0cdde-c882-472c-af50-b585c9e52d51" />
 <img width="959" height="487" alt="image" src="https://github.com/user-attachments/assets/7e39b727-b4e3-4cb9-a23f-bf25bdccbe35" />
+
+<img width="959" height="482" alt="image" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
+
+
+<img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/0ab7e394-80f2-47fa-82bd-595f076d0881" />
+
+
+
 <img width="955" height="484" alt="image" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
 <img width="955" height="478" alt="image" src="https://github.com/user-attachments/assets/ac952da9-1599-4865-a9c3-7af2b62003bf" />
 
