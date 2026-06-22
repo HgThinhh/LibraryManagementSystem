@@ -54,7 +54,7 @@ QuanLyThuVien.sql
 
 ## Hình ảnh hệ thống
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/7502d650-430f-458c-b3b8-78ab671ca521" />
-<img width="944" height="488" alt="image" src="https://github.com/user-attachments/assets/7bc1794b-2e76-4602-97e8-c26cd3a5d96b" />
+<img width="941" height="488" alt="image" src="https://github.com/user-attachments/assets/de32a55e-c380-4145-b6d3-8fd9e8e2ed20" />
 <img width="959" height="486" alt="image" src="https://github.com/user-attachments/assets/02af6d20-1fd6-4532-af2e-bc118860faa1" />
 <img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/acb0cdde-c882-472c-af50-b585c9e52d51" />
 <img width="959" height="487" alt="image" src="https://github.com/user-attachments/assets/7e39b727-b4e3-4cb9-a23f-bf25bdccbe35" />
