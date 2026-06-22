@@ -1,85 +1,165 @@
-﻿# LibraryManagementSystem
+# Library Management System
 
-## Giới thiệu
+## Overview
 
-Phần mềm quản lý thư viện được phát triển bằng C# WinForms và SQL Server nhằm hỗ trợ quản lý sách, độc giả, kho sách và quá trình mượn trả trong thư viện.
+Library Management System is a desktop application developed using C#, Windows Forms, SQL Server, LINQ to SQL, and Crystal Reports following a Three-Tier Architecture (GUI - BUS - DAL).
 
-## Công nghệ sử dụng
+The system is designed to support library operations by managing books, readers, employees, borrowing and returning activities, library cards, storage locations, and statistical reporting.
+
+The project aims to improve management efficiency, simplify data processing, and provide accurate reporting for library administrators.
+
+---
+
+## Technologies
 
 * C#
-* Windows Forms
+* Windows Forms (WinForms)
 * SQL Server
 * LINQ to SQL
 * Crystal Reports
-* Mô hình 3 lớp (3-Tier Architecture)
+* Three-Tier Architecture (GUI - BUS - DAL)
+* Git & GitHub
 
-## Chức năng chính
+---
 
-### Quản lý sách
+## Key Features
 
-* Thêm sách
-* Sửa sách
-* Xóa sách
-* Tìm kiếm sách
+### User Authentication
 
-### Quản lý độc giả
+* Login and account management
+* Role-based access control
+* Secure system access
 
-* Quản lý thông tin độc giả
-* Quản lý thẻ thư viện
+### Book Management
 
-### Quản lý mượn trả
+* Add, edit, and delete books
+* Search books by multiple criteria
+* Manage book categories and authors
+* Track book availability
 
-* Lập phiếu mượn
-* Lập phiếu trả
-* Theo dõi quá hạn
+### Reader Management
 
-### Quản lý kho
+* Manage reader information
+* Library card management
+* Reader registration and tracking
 
-* Quản lý vị trí sách
-* Quản lý kệ sách
+### Employee Management
 
-### Báo cáo thống kê
+* Manage employee information
+* Staff administration and monitoring
 
-* Thống kê phiếu mượn
-* Thống kê phiếu phạt
-* Thống kê sách theo tác giả
-* Thống kê sách theo thể loại
-* Xuất báo cáo bằng Crystal Reports
+### Borrowing & Returning Management
 
-## Cơ sở dữ liệu
+* Create borrowing records
+* Create returning records
+* Track overdue books
+* Manage borrowing history
 
-File database:
+### Library Storage Management
+
+* Manage bookshelves and storage locations
+* Locate books through shelf images
+* Improve book retrieval efficiency
+
+### Reports & Statistics
+
+* Borrowing statistics
+* Penalty report statistics
+* Book statistics by author
+* Book statistics by category
+* Export reports using Crystal Reports
+* Print detailed management reports
+
+---
+
+## Project Structure
+
+GUI Layer (WinForms)
+↓
+Business Layer (BUS)
+↓
+Data Access Layer (DAL)
+↓
+SQL Server Database
+
+---
+
+## My Responsibilities
+
+* Designed and implemented SQL Server database
+* Developed LINQ to SQL data access layer
+* Built WinForms user interfaces
+* Implemented CRUD operations for books, readers, employees, and library cards
+* Developed borrowing and returning management modules
+* Integrated Crystal Reports for reporting and printing
+* Implemented bookshelf location management using images
+* Tested, debugged, and optimized application performance
+
+---
+
+## Key Highlights
+
+* Applied Three-Tier Architecture (GUI - BUS - DAL)
+* Implemented LINQ to SQL for database operations
+* Developed complete library management workflow
+* Managed bookshelf locations through image-based visualization
+* Generated statistical and printable reports using Crystal Reports
+* Designed and implemented a relational SQL Server database
+
+---
+
+## Database
+
+Database Script:
 
 QuanLyThuVien.sql
 
-## Hình ảnh hệ thống
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/7502d650-430f-458c-b3b8-78ab671ca521" />
+---
 
-dashboard
-<img width="941" height="488" alt="image" src="https://github.com/user-attachments/assets/70d22c93-f740-44a2-ab51-add5c94bc312" />
+## System Screenshots
 
-<img width="959" height="486" alt="image" src="https://github.com/user-attachments/assets/02af6d20-1fd6-4532-af2e-bc118860faa1" />
-<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/acb0cdde-c882-472c-af50-b585c9e52d51" />
-<img width="959" height="487" alt="image" src="https://github.com/user-attachments/assets/7e39b727-b4e3-4cb9-a23f-bf25bdccbe35" />
+### Login System
 
-<img width="959" height="482" alt="image" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
+(Add Login Screenshot)
 
+### Dashboard
 
-<img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/0ab7e394-80f2-47fa-82bd-595f076d0881" />
+<img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/7502d650-430f-458c-b3b8-78ab671ca521" />
 
+### Book Management
 
+<img width="941" height="488" alt="Book Management" src="https://github.com/user-attachments/assets/70d22c93-f740-44a2-ab51-add5c94bc312" />
 
-<img width="955" height="484" alt="image" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
+### Reader Management
 
+<img width="959" height="486" alt="Reader Management" src="https://github.com/user-attachments/assets/02af6d20-1fd6-4532-af2e-bc118860faa1" />
 
+### Employee Management
 
-## Tác giả
+<img width="959" height="443" alt="Employee Management" src="https://github.com/user-attachments/assets/acb0cdde-c882-472c-af50-b585c9e52d51" />
 
-Châu Hưng Thịnh
-Sinh viên ngành Công nghệ Thông tin
+### Borrowing & Returning Management
 
+<img width="959" height="487" alt="Borrowing Management" src="https://github.com/user-attachments/assets/7e39b727-b4e3-4cb9-a23f-bf25bdccbe35" />
 
+### Bookshelf Location Management
 
+<img width="959" height="482" alt="Bookshelf Location" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
 
+### Reports & Statistics
 
+<img width="945" height="484" alt="Reports" src="https://github.com/user-attachments/assets/0ab7e394-80f2-47fa-82bd-595f076d0881" />
 
+<img width="955" height="484" alt="Statistics" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
+
+---
+
+## Author
+
+**Chau Hung Thinh**
+
+Information Technology Student
+
+Thu Duc College of Technology
+
+GitHub: https://github.com/HgThinhh
