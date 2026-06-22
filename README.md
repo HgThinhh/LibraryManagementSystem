@@ -143,21 +143,21 @@ QuanLyThuVien.sql
 
 ### Employee Management
 
-<img width="959" height="482" alt="Bookshelf Location" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
+<img width="955" height="484" alt="Statistics" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
 
 ### Borrowing & Returning Management
 
 <img width="959" height="487" alt="Borrowing Management" src="https://github.com/user-attachments/assets/7e39b727-b4e3-4cb9-a23f-bf25bdccbe35" />
 
-### Bookshelf Location Management
+### Bookshelf Location Management 
 
-<img width="955" height="484" alt="Statistics" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
+  
+<img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/46ece8fd-9cce-45b4-bfd2-8b66793925a6" />
+
 
 ### Reports & Statistics
 
 <img width="945" height="484" alt="Reports" src="https://github.com/user-attachments/assets/0ab7e394-80f2-47fa-82bd-595f076d0881" />
-
-
 
 
 
