@@ -122,22 +122,28 @@ QuanLyThuVien.sql
 
 (Add Login Screenshot)
 
-### Dashboard
+### Login
 
 <img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/7502d650-430f-458c-b3b8-78ab671ca521" />
 
-### Book Management
+### Dashboard
 
 <img width="941" height="488" alt="Book Management" src="https://github.com/user-attachments/assets/70d22c93-f740-44a2-ab51-add5c94bc312" />
 
-### Reader Management
+
+### Book Management
 
 <img width="959" height="486" alt="Reader Management" src="https://github.com/user-attachments/assets/02af6d20-1fd6-4532-af2e-bc118860faa1" />
 
+
+### Reader Management
+
+<img width="958" height="484" alt="image" src="https://github.com/user-attachments/assets/fafb1a3e-dcff-434a-9e10-1acf32c0a4d6" />
+
+
 ### Employee Management
 
-<img width="955" height="484" alt="Statistics" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
-
+<img width="959" height="482" alt="Bookshelf Location" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
 
 ### Borrowing & Returning Management
 
@@ -152,7 +158,8 @@ QuanLyThuVien.sql
 <img width="945" height="484" alt="Reports" src="https://github.com/user-attachments/assets/0ab7e394-80f2-47fa-82bd-595f076d0881" />
 
 
-<img width="959" height="482" alt="Bookshelf Location" src="https://github.com/user-attachments/assets/71b9c8f0-0187-425f-9560-3f1e2812dc96" />
+
+
 
 ---
 
