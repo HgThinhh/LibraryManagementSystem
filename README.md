@@ -151,7 +151,8 @@ QuanLyThuVien.sql
 
 ### Bookshelf Location Management 
 
-  
+<img width="955" height="484" alt="Statistics" src="https://github.com/user-attachments/assets/d33db87a-cd03-4fd0-a35e-a62764133f24" />
+
 <img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/46ece8fd-9cce-45b4-bfd2-8b66793925a6" />
 
 
